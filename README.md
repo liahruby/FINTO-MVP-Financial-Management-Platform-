@@ -1,4 +1,4 @@
-# FINTO-MVP-Financial-Management-Platform-
+# FINTO-MVP-Financial-Management-Platform
 ## A fully functional Example MVP written in R (Shiny) to create a financial management platform
 This project is an example (MVP) of a personal finance management platform designed to empower users 
 with comprehensive financial tools and personalized, real-time financial advice. FINTO integrates budgeting, 
