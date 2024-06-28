@@ -8,7 +8,7 @@ AI technology to provide tailored recommendations and insights - FINTO is the al
 ## Installation using R (Studio)
 To install and run FINTO locally, follow these steps:
 1. Clone the repository:
-   git clone https://github.com/liahruby/FINTO.git
+   git clone [https://github.com/liahruby/FINTO.git](https://github.com/liahruby/FINTO-MVP-Financial-Management-Platform-.git)
    cd FINTO
 2. Set the CRAN mirror and install the required packages:
    chooseCRANmirror(graphics = FALSE, ind = 1)
