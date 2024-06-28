@@ -52,18 +52,12 @@ Budget Planning:
 
 ## Main functionality and architecture of this MVP
 FINTO is built using R and the Shiny framework, leveraging various packages for a rich user interface and robust server-side logic.
-
-Programming Language: R
-
-Main Frameworks: Shiny, ShinyDashboard, ggplot2, dplyr, lubridate, DT
-
-Paradigm: Functional programming for UI and reactive programming for server logic.
-
-UI Definition: Shiny's dashboardPage, dashboardHeader, dashboardSidebar, and dashboardBody components define the user interface.
-
-Server Logic: The server logic uses reactive values and observers to manage the state and update UI components dynamically.
-
-Data Management: Transactions and budget data are generated using custom functions and managed using reactive values.
+- Programming Language: R
+- Main Frameworks: Shiny, ShinyDashboard, ggplot2, dplyr, lubridate, DT
+- Paradigm: Functional programming for UI and reactive programming for server logic.
+- UI Definition: Shiny's dashboardPage, dashboardHeader, dashboardSidebar, and dashboardBody components define the user interface.
+- Server Logic: The server logic uses reactive values and observers to manage the state and update UI components dynamically.
+- Data Management: Transactions and budget data are generated using custom functions and managed using reactive values.
 
 
 
