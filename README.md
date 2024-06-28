@@ -26,7 +26,7 @@ To install and run FINTO locally, follow these steps:
 4. Run the Shiny application:
    shinyApp(ui = ui, server = server)
 
-## Usage
+## Usage and Structure of this MVP
 Dashboard:
 - Provides a summary of total income, expenses, and net savings.
 - Displays notifications related to your financial activities.
@@ -43,7 +43,7 @@ Budget Planning:
 - Set and track budget goals.
 - Visualize budget overview and track expenses against goals.
 
-## Main Functionality
+## Main functionality of this MVP
 FINTO is built using R and the Shiny framework, leveraging various packages for a rich user interface and robust server-side logic.
 Programming Language: R
 Main Frameworks: Shiny, ShinyDashboard, ggplot2, dplyr, lubridate, DT
